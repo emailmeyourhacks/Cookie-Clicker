@@ -1,0 +1,6 @@
+Game.CalculateGains = function() {
+    Game.cookiesPs = 12345678909876543213456789876543245678909876543213451938799128759938168924756918221421678909876543;
+    Game.computedMouseCps = Game.mouseCps();
+    Game.recalculateGains = 0;
+};
+Game.recalculateGains = 1
