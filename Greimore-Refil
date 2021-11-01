@@ -1,0 +1,1 @@
+Game.Objects['Wizard tower'].minigame.magic = Infinity;
