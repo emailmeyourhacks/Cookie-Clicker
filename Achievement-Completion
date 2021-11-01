@@ -1,0 +1,4 @@
+Game.AchievementsById.forEach(function(e) {
+    // if (e.hide != 3)
+    Game.Win(e.name);
+});
