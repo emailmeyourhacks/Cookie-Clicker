@@ -1,0 +1,1 @@
+Game.UpgradesById.forEach(function(i) {if (i.bought === 0) { Game.cookies +=i.basePrice; i.buy(); }}
